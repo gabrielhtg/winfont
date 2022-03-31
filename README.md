@@ -14,7 +14,10 @@ Cara menggunakannya:
 	cd winfont/fonts
 	```
 3. Ketikkan `ls ~/.local/share/fonts`.
-4. Jika dikatakan *No such file or directory* maka kalian buat dulu foldernya, dengan cara ketikkan `mkdir ~/.local/share/fonts`
+4. Jika dikatakan *No such file or directory* maka kalian buat dulu foldernya, dengan cara ketikkan 
+	```
+	mkdir ~/.local/share/fonts
+	```
 5. Kemudian install font-fontnya dengan cara `mv * ~/.local/share/fonts`
 6. Atau jika kalian kurang terbiasa menggunakan terminal, bisa juga kalian install menggunakan GUI melalui file manager dan font manager kalian. :tea:
 
